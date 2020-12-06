@@ -1,4 +1,4 @@
-import './index.scss';
+import './index.css';
 import imageCard from './templates/gallery-markup.hbs';
 import { refs } from './js/refs-data-module';
 import API from './js/apiService';
